@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi guys! :computer:
 
-<!--
-**Sergio-dev7/Sergio-dev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Me chamo Sérgio Oliveria, sou estudante de TI em desenvolvimento para tornar-me full stack. No momento estou me desenvolvendo em Back End.
+ <br>
+ <br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt= "logo-html">
+  
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css">
+   <br>
+   <br>
+
+  Follow me:
+
+   <a href="https://www.linkedin.com/in/sergiowallace/"> <img aligh="left" src="https://img.freepik.com/vetores-premium/icone-do-aplicativo-linkedin-a-maior-rede-profissional-do-mundo-redes-sociais-empregos-e-carreiras_277909-476.jpg?w=740" width=22px> <a/>
